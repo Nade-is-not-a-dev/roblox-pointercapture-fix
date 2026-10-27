@@ -1,7 +1,14 @@
 <resources>
-    <color name="primary">#1E293B</color>
+    <color name="bg">#121212</color>
+    <color name="card">#1E1E1E</color>
+    <color name="cardField">#2A2A2A</color>
+    <color name="primary">#2196F3</color>
     <color name="onPrimary">#FFFFFF</color>
-    <color name="primaryContainer">#E2E8F0</color>
-    <color name="surface">#F8FAFC</color>
-    <color name="onSurface">#0F172A</color>
+    <color name="warningStart">#FF9800</color>
+    <color name="warningEnd">#F57C00</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B0B0B0</color>
+    <color name="textHint">#8A8A8A</color>
+    <color name="onSurface">#FFFFFF</color>
+    <color name="surface">#121212</color>
 </resources>

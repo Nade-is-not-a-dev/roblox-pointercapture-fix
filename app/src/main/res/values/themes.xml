@@ -1,9 +1,7 @@
 <resources>
-    <style name="Theme.RobloxPointerFix" parent="Theme.Material3.Light.NoActionBar">
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorOnPrimary">@color/onPrimary</item>
-        <item name="colorPrimaryContainer">@color/primaryContainer</item>
-        <item name="colorSurface">@color/surface</item>
-        <item name="colorOnSurface">@color/onSurface</item>
+    <style name="Theme.RobloxPointerFix" parent="android:Theme.NoTitleBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
     </style>
 </resources>
